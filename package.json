@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "start": "node haruka.js"
+    "prod:start": "pm2-runtime haruka.js"
   },
   "keywords": [
     "termux",
