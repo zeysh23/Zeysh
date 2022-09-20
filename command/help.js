@@ -97,37 +97,6 @@ ${mundur}
  • proses < reply chat >
  • done < reply chat >${petik}
 
-*RPG GAMES*${petik}
- • ${prefix}inventory
- • ${prefix}mining
- • ${prefix}buy 
- • ${prefix}sell
- • ${prefix}heal
- • ${prefix}hunt
- • ${prefix}adventure
- • ${prefix}luckyday
- • ${prefix}killslime
- • ${prefix}killgoblin
- • ${prefix}killdevil
- • ${prefix}killbehemoth
- • ${prefix}killdemon
- • ${prefix}killdemonking
- • ${prefix}joinrpg
- • ${prefix}sellikan
- • ${prefix}sellbesi
- • ${prefix}sellemas
- • ${prefix}jelajah
- • ${prefix}mancing
- • ${prefix}jualikan
- • ${prefix}jualcoal
- • ${prefix}lebur
- • ${prefix}jualstone
- • ${prefix}jualingot
- • ${prefix}jualkayu
- • ${prefix}nebang
- • ${prefix}goplanet
- • ${prefix}jualbahankimia${petik}
-
 *DOWNLOADS MENU*${petik}
  • ${prefix}play
  • ${prefix}ytmp3
@@ -174,23 +143,12 @@ ${mundur}
  • ${prefix}hidetag
  • ${prefix}checksewa${petik}
 
-*GAME MENU*${petik}
- • ${prefix}tictactoe
- • ${prefix}delttt
- • ${prefix}casino
- • ${prefix}delcasino${petik}
-
 *SEARCH MENU*${petik}
  • ${prefix}lirik
  • ${prefix}grupwa
  • ${prefix}pinterest
  • ${prefix}ytsearch
  • ${prefix}searchbyimage${petik}
-
-*RANDOM MENU*${petik}
- • ${prefix}cecan
- • ${prefix}cogan
- • ${prefix}waifu${petik}
 
 
 *BALANCE MENU*${petik}
